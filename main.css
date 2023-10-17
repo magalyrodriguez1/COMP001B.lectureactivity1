@@ -1,22 +1,27 @@
+
 body{
     color:burlywood
 }
-
+/*class selector uses ., changed color*/
 .human{
     color:gray
 }
-
+/*id selector uses #*/
 #header{
     background-color: blanchedalmond;
     color:black
 }
+/*pseudo element uses :: and changes parts of the element not everything. ie
+::first-letter, ::first-line*/
 #header::first-letter{
     color:burlywood;
 }
-
+/*link*/
 a{
     text-decoration: none;
 }
+/*pseudo class uses : and changes stuff that is in a certain state. like :hover, :first-child
+(means styles the first item within an element)
 a:hover{
    color: orange;
    text-decoration: none;
