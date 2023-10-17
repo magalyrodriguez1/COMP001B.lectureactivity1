@@ -1,2 +1,3 @@
 author: Magaly Rodriguez
-purpose: show knowledge of CSS and HTML
+purpose: Activity 1
+show knowledge of CSS and HTML

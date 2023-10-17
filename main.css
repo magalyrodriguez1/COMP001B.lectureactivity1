@@ -1,3 +1,26 @@
 body{
     color:burlywood
 }
+
+.human{
+    color:gray
+}
+
+#header{
+    background-color: blanchedalmond;
+    color:black
+}
+#header::first-letter{
+    color:burlywood;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+   color: orange;
+   text-decoration: none;
+
+}
+
+
